@@ -159,6 +159,10 @@ button.cart,
   transition: 0.4s ease;
 }
 
+.manage-btns {
+  margin-top: auto;
+}
+
 button.cart:hover,
 .manage-btn:hover {
   background-color: #9FC2E3;
